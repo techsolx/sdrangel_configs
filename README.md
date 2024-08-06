@@ -1,6 +1,6 @@
-# SDRAngel_Scripts
+# SDRAngel_Configs
 
-This repo holds config files and scripts for [SDRAngel](https://github.com/f4exb/sdrangel)
+This repo holds config files for [SDRAngel](https://github.com/f4exb/sdrangel)
 
 ## Getting Started
 
@@ -17,7 +17,7 @@ Clone the repo or zip down the files in the configs folder
 [TechSolX](https://github.com/techsolx)
 
 See also the list of
-[contributors](<project>/<repo>/graphs/master)
+[contributors](https://github.com/techsolx/sdrangel_configs/graphs/contributors)
 who participated in this project.
 
 ## License
